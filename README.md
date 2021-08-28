@@ -59,7 +59,7 @@ Abaixo segue os links. :smile:
 
 <p align=center>Animações de entradas</p>
   <p align=center >
-    <img height="235px"  src="./public/img/mobile1.gif"> 
+    <img height="235px"  src="./public/img/mobile1.gif"> &nbsp; &nbsp; 
     <img height="235px"  src="./public/img/mobile2.gif"> &nbsp; &nbsp;
     <img height="210px"  src="./public/img/home_desktop2.gif"> 
   
@@ -77,6 +77,9 @@ Abaixo segue os links. :smile:
 
 
 ## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
+
+<br/>
+<br/>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -102,14 +105,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Aqui estão as instruções da avaliação do processo seletivo, [link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/blob/main/instructions/Readme.md).
 #### Concluído :clipboard:
 
-Todo projeto foi estruturado usando kanban aqui mesmo na aba projects github. Você pode acessar [aqui](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/projects/1).
 
 Para executar o projeto basta seguir os passos abaixo
 
 1. Clone o repositório e abra a pasta dele:
 
 ```shell
-$ git clone https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza && cd desafio-zapt
+$ git clone https://github.com/EduSouza-programmer/challenge_zapt_refactory-Edu_Souza 
 ```
 
 2. Instale as dependência com `yarn` ou `npm`:
@@ -133,11 +135,18 @@ Para executar, depois que concluir os passos acima, siga com:
 $ yarn storybook
 ```
 
-### Considerações finais
-
-Mas uma vez quero agradecer a oportunidade, principalmente ao professor Willian Justen, graças aos seus cursos tenho adquirido conhecimentos mais avançados que me dão maturidade na minha jornada de desenvolvedor web. :rocket:
-
 <br/>
+#### Deploy :clipboard:
+
+Acesse o deploy do projeto [aqui](https://edu-won-games-client-deploy.vercel.app/).
+
+#### Revisão :beers:
+
+Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
+
+Acesse o deploy do storybook [aqui](https://edu-won-games-storybook.netlify.app/?path=/story/components-banner--mobile&globals=measureEnabled:false). <br/>
+
+#
 
 ## :unlock: Licença
 
