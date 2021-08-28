@@ -1,4 +1,4 @@
-import { useRef, useCallback } from "react";
+import { useRef } from "react";
 import { useIntersectionObserver } from "@/utils/hooks/useIntersectionObserver";
 
 import { UserFeedbackSocialMediaProps } from "./UserFeedbackSocialMedia.types";
@@ -16,13 +16,13 @@ function UserFeedbackSocialMedia({
     false
   );
 
-  const randowDelay = useCallback((max: number, min: number) => {
+  /*  const randowDelay = useCallback((max: number, min: number) => {
     return String(Number(Math.random() * (max - min) + min).toFixed(1));
-  }, []);
+  }, []); */
 
   return (
     <S.Wrapper
-      delay={randowDelay(0.4, 0.01)}
+      delay=""
       ref={wrapperRef}
       isAnimation={isAnimation && isIntesaction}
       {...props}

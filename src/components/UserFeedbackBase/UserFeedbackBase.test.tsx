@@ -133,14 +133,14 @@ describe("<UserFeedbackBase />", () => {
       expect(nameEl).toBeInTheDocument();
     });
 
-    it("should render user name with the html h5 tag", () => {
+    it("should render user name with the html h3 tag", () => {
       const { container } = renderWithTheme(<UserFeedbackBase />);
 
-      const queryNameEl = container.querySelector("h4");
+      const queryNameEl = container.querySelector("h3");
       expect(queryNameEl).toBeInTheDocument();
 
       const nameEl = screen.getByRole("heading", { name: /desconhecido/i });
-      expect(nameEl.tagName).toEqual("H4");
+      expect(nameEl.tagName).toEqual("H3");
     });
   });
 

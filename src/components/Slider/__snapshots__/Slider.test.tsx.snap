@@ -109,10 +109,6 @@ exports[`<Slider /> should render children as slider item 1`] = `
   display: none;
 }
 
-@media print {
-
-}
-
 <div
   class="c0"
 >

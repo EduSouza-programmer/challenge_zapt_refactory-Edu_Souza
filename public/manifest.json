@@ -1,22 +1,24 @@
 {
-  "name": "Zapt | Junte seus amigos para comprar com desconto",
+  "name": "Zapt App",
   "description": "Economize até 50% nos melhores produtos comprando junto com seus grupos de WhatsApp. Convide amigos para comprar junto e ganhe cashback",
   "short_name": "Zapt",
   "theme_color": "#334BC8",
   "background_color": "#FAFAFA",
-  "display": "fullscreen",
+  "display": "minimal-ui",
   "orientation": "portrait",
   "start_url": "/",
   "icons": [
     {
       "src": "/img/icon-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "/img/icon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ]
 }

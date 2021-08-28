@@ -24,10 +24,6 @@ describe("<Container />", () => {
   margin-bottom: calc(10rem * 1.1);
 }
 
-@media print {
-
-}
-
 <section
   class="c0"
 >

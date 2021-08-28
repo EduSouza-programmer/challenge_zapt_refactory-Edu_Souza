@@ -81,7 +81,7 @@ export const Slider = styled(slider)`
         }
       }
       button {
-        opacity: 0;
+        display: none;
         width: 0.7rem;
         height: 0.7rem;
       }

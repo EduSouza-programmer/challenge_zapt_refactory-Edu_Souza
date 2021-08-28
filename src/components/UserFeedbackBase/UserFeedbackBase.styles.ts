@@ -72,7 +72,7 @@ export const WrapperImage = styled.div<WrapperImageProps>`
   `}
 `;
 
-export const UserName = styled(typography).attrs(({ forwardedAs = "h4" }) => ({
+export const UserName = styled(typography).attrs(({ forwardedAs = "h3" }) => ({
   forwardedAs,
 }))<TextsProps>`
   ${({ theme, size, color }) => css`

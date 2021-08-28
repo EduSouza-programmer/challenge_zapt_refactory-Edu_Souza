@@ -60,7 +60,9 @@ function PageSEO({
       <meta property="og:image:width" content="512" />
       <meta property="og:image:height" content="512" />
 
+      <meta name="twitter:url" content={process.env.NEXT_PUBLIC_SITE_URL} />
       <meta property="twitter:title" content={pageTitle} />
+      <meta name="twitter:description" content={description} />
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:site" content="@YOUR_TWITTER" />
       <meta property="twitter:creator" content="@YOUR_TWITTER" />
