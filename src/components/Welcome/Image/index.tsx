@@ -26,7 +26,7 @@ function Image({ isAnimation }: WrapperProps) {
       </mask>
 
       <g mask="url(#mask0)" fill="#C4C4C4">
-        <S.Image xlinkHref="/img/welcome.jpg" />
+        <S.Image xlinkHref="./img/welcome.jpg" />
 
         <S.Circle cx="100" cy="70" r="40" fill="white" />
         <svg x="200" y="175" viewBox="0 0 417 313">

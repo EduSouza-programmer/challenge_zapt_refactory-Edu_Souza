@@ -141,7 +141,7 @@ $ yarn storybook
 
 #### Concluído :clipboard:
 
-Acesse o deploy do projeto [aqui](https://edu-won-games-client-deploy.vercel.app/).
+Acesse o deploy do projeto [aqui](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/).
 
 #### Revisão :beers:
 

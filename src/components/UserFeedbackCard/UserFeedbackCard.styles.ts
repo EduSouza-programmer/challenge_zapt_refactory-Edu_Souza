@@ -20,7 +20,7 @@ export const WrapperImage = styled.div`
 
     &::before {
       content: "";
-      background: url("/img/effects/noise.svg");
+      background: url("./img/effects/noise.svg");
       position: absolute;
       inset: 0;
       z-index: ${theme.zIndex.underBase};

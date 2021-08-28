@@ -4,9 +4,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_2.jpg",
+        src: "./img/users/avatar_2.jpg",
         alt: "Um jovem moça de cabelos curtos com uma expressão seria e olhar sereno",
-        dataBlur: "/img/users/avatar_2.jpg",
+        dataBlur: "./img/users/avatar_2.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -19,9 +19,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_4.jpg",
+        src: "./img/users/avatar_4.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_4.jpg",
+        dataBlur: "./img/users/avatar_4.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -35,9 +35,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_7.jpg",
+        src: "./img/users/avatar_7.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_7.jpg",
+        dataBlur: "./img/users/avatar_7.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -50,9 +50,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_1.jpg",
+        src: "./img/users/avatar_1.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_1.jpg",
+        dataBlur: "./img/users/avatar_1.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -65,9 +65,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_5.jpg",
+        src: "./img/users/avatar_5.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_5.jpg",
+        dataBlur: "./img/users/avatar_5.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -81,9 +81,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_8.jpg",
+        src: "./img/users/avatar_8.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_8.jpg",
+        dataBlur: "./img/users/avatar_8.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -97,9 +97,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_3.jpg",
+        src: "./img/users/avatar_3.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_3.jpg",
+        dataBlur: "./img/users/avatar_3.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -113,9 +113,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_6.jpg",
+        src: "./img/users/avatar_6.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_6.jpg",
+        dataBlur: "./img/users/avatar_6.jpg",
       },
       size: "xsmall",
       borderColor: "blue",
@@ -129,9 +129,9 @@ export default [
   {
     user: {
       image: {
-        src: "/img/users/avatar_9.jpg",
+        src: "./img/users/avatar_9.jpg",
         alt: "",
-        dataBlur: "/img/users/avatar_9.jpg",
+        dataBlur: "./img/users/avatar_9.jpg",
       },
       size: "xsmall",
       borderColor: "blue",

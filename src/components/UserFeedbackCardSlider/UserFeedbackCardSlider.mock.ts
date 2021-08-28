@@ -3,16 +3,16 @@ import { UserFeedbackCardProps } from "@/components/UserFeedbackCard/UserFeedbac
 export default [
   {
     image: {
-      src: "/img/cards/card_1.jpg",
+      src: "./img/cards/card_1.jpg",
       alt: "Uma jovem senhora cozinhando com uma expressão de satisfação",
-      dataBlur: "/img/cards/card_1.jpg",
+      dataBlur: "./img/cards/card_1.jpg",
     },
 
     user: {
       image: {
-        src: "/img/users/avatar_2.jpg",
+        src: "./img/users/avatar_2.jpg",
         alt: "Um jovem moça de cabelos curtos com uma expressão seria e olhar sereno",
-        dataBlur: "/img/users/avatar_2.jpg",
+        dataBlur: "./img/users/avatar_2.jpg",
       },
       size: "xsmall",
       borderColor: "white",
@@ -29,16 +29,16 @@ export default [
 
   {
     image: {
-      src: "/img/cards/card_2.jpg",
+      src: "./img/cards/card_2.jpg",
       alt: "Um casal realizando atividades na cozinha de bem com a vida",
-      dataBlur: "/img/cards/card_2.jpg",
+      dataBlur: "./img/cards/card_2.jpg",
     },
 
     user: {
       image: {
-        src: "/img/users/avatar_5.jpg",
+        src: "./img/users/avatar_5.jpg",
         alt: "Um casal abraçados e sorrindo",
-        dataBlur: "/img/users/avatar_5.jpg",
+        dataBlur: "./img/users/avatar_5.jpg",
       },
       size: "xsmall",
       borderColor: "white",
@@ -54,16 +54,16 @@ export default [
   },
   {
     image: {
-      src: "/img/cards/card_3.webp",
+      src: "./img/cards/card_3.webp",
       alt: "Um homem tatuado cobrindo o rosto com uma pizza embalada a vaco",
-      dataBlur: "/img/cards/card_3.webp",
+      dataBlur: "./img/cards/card_3.webp",
     },
 
     user: {
       image: {
-        src: "/img/users/avatar_1.jpg",
+        src: "./img/users/avatar_1.jpg",
         alt: "Um casal abraçados e sorrindo",
-        dataBlur: "/img/users/avatar_1.jpg",
+        dataBlur: "./img/users/avatar_1.jpg",
       },
       size: "xsmall",
       borderColor: "white",
@@ -79,16 +79,16 @@ export default [
   },
   {
     image: {
-      src: "/img/cards/card_4.webp",
+      src: "./img/cards/card_4.webp",
       alt: "Um homem tatuado cobrindo o rosto com uma pizza embalada a vaco",
-      dataBlur: "/img/cards/card_4.webp",
+      dataBlur: "./img/cards/card_4.webp",
     },
 
     user: {
       image: {
-        src: "/img/users/avatar_4.jpg",
+        src: "./img/users/avatar_4.jpg",
         alt: "Uma moça ruiva sorrindo",
-        dataBlur: "/img/users/avatar_5.jpg",
+        dataBlur: "./img/users/avatar_5.jpg",
       },
       size: "xsmall",
       borderColor: "white",
@@ -104,16 +104,16 @@ export default [
   },
   {
     image: {
-      src: "/img/cards/card_5.webp",
+      src: "./img/cards/card_5.webp",
       alt: "Uma senhora sorridente sentada, e sobre a mesa uma taça com champanhe",
-      dataBlur: "/img/cards/card_5.webp",
+      dataBlur: "./img/cards/card_5.webp",
     },
 
     user: {
       image: {
-        src: "/img/users/avatar_6.jpg",
+        src: "./img/users/avatar_6.jpg",
         alt: "Uma moça ruiva sorrindo",
-        dataBlur: "/img/users/avatar_6.jpg",
+        dataBlur: "./img/users/avatar_6.jpg",
       },
       size: "xsmall",
       borderColor: "white",
@@ -129,16 +129,16 @@ export default [
   },
   {
     image: {
-      src: "/img/cards/card_6.webp",
+      src: "./img/cards/card_6.webp",
       alt: "Uma mulher de cabelos longos escuros com uma expressão de seriendade",
-      dataBlur: "/img/cards/card_6.webp",
+      dataBlur: "./img/cards/card_6.webp",
     },
 
     user: {
       image: {
-        src: "/img/users/avatar_3.jpg",
+        src: "./img/users/avatar_3.jpg",
         alt: "Uma jovem senhora muito simpática e sorridente",
-        dataBlur: "/img/users/avatar_3.jpg",
+        dataBlur: "./img/users/avatar_3.jpg",
       },
       size: "xsmall",
       borderColor: "white",

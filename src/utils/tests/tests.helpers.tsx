@@ -1,11 +1,11 @@
 import { ReactNode } from "react";
-import ThemeProvider from "@/components/ThemeProvider";
 import {
   render,
   RenderResult,
   screen,
   ByRoleMatcher,
 } from "@testing-library/react";
+import ThemeProvider from "@/components/ThemeProvider";
 
 export const renderWithTheme = (children: ReactNode): RenderResult =>
   render(<ThemeProvider>{children}</ThemeProvider>);

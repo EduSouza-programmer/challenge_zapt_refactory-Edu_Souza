@@ -3,9 +3,9 @@ import { UserFeedbackSocialMediaProps } from "./UserFeedbackSocialMedia.types";
 export default {
   user: {
     image: {
-      src: "/img/users/avatar_2.jpg",
+      src: "./img/users/avatar_2.jpg",
       alt: "Um jovem moça de cabelos curtos com uma expressão seria e olhar sereno",
-      dataBlur: "/img/users/avatar_2.jpg",
+      dataBlur: "./img/users/avatar_2.jpg",
     },
     size: "xsmall",
     borderColor: "blue",
