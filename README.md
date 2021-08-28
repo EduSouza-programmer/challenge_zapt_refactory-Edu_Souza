@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/29df284d-7cc1-40eb-b5a6-24e7f252d1bb/deploy-status)](https://app.netlify.com/sites/edu-zapt-storybook/deploys)
-
 <br/>
 
 <h5 align="center">
