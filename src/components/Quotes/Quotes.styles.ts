@@ -64,6 +64,40 @@ const entranceQuotesBottom = keyframes`
   }
 `;
 
+const entranceQuotesBottomMobile = keyframes`
+   0% {
+    border-radius: 50%;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.7);
+  }
+
+  30% {
+
+    top: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    transform: translateY(150%) rotate(-180deg) scale(1);
+  }
+
+  50% {
+    bottom:30%;
+    top:50%;
+    right: 31%;
+    transform: translate(50%, -50%) rotate(180deg) scale(0.7);
+  }
+
+
+
+  100% {
+    right: -4rem;
+    bottom: -3rem;
+    transform: translateY(0) rotate(360deg) scale(1);
+  }
+
+`;
+
 const Quotes = styled.div`
   position: absolute;
   border-top-left-radius: 50%;
@@ -124,7 +158,7 @@ export const QuotesBottom = styled(Quotes)`
 `;
 
 export const Wrapper = styled.div<WrapperProps>`
-  ${({ isAnimation }) => css`
+  ${({ theme, isAnimation }) => css`
     position: relative;
 
     ${QuotesTop} {
@@ -132,7 +166,12 @@ export const Wrapper = styled.div<WrapperProps>`
     }
 
     ${QuotesBottom} {
-      ${isAnimation && modifiers.playAnimation(entranceQuotesBottom)}
+      ${isAnimation && modifiers.playAnimation(entranceQuotesBottomMobile)}
+
+      ${theme.media.greaterThan("945")`
+          ${isAnimation && modifiers.playAnimation(entranceQuotesBottom)}
+
+      `}
     }
   `}
 `;

@@ -71,7 +71,6 @@ Abaixo segue os links. :smile:
 </details>
 
 <br/>
-
 <br/>
 
 <p align=center >
