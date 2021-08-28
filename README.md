@@ -75,11 +75,10 @@ Abaixo segue os links. :smile:
   <img height="235px" src="./public/img/mobile.png">
 </p>
 
+<br/>
+<br/>
 
 ## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
-
-<br/>
-<br/>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -136,7 +135,8 @@ $ yarn storybook
 ```
 
 <br/>
-#### Deploy :clipboard:
+
+#### Concluído :clipboard:
 
 Acesse o deploy do projeto [aqui](https://edu-won-games-client-deploy.vercel.app/).
 
@@ -145,8 +145,6 @@ Acesse o deploy do projeto [aqui](https://edu-won-games-client-deploy.vercel.app
 Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
 
 Acesse o deploy do storybook [aqui](https://edu-won-games-storybook.netlify.app/?path=/story/components-banner--mobile&globals=measureEnabled:false). <br/>
-
-#
 
 ## :unlock: Licença
 
