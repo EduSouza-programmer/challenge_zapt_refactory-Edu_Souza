@@ -39,11 +39,11 @@
 
 #### Desafio Zapt
 
-Sabe quando você fica incomodado com seu desempenho em alguma tarefa ou realizações e sabe que poderia ter feito melhor? Ainda mais... imagine... você é do tipo de pessoa perfeccionista! Sim... fiquei chateado comigo mesmo pois no projeto anterior do "desafio Zapt" sentir que não fui muito bem. Também cometir erros e sentir dificuldades, sinto que em grande parte era o nervosismo.
+Sabe quando você fica incomodado com seu desempenho em alguma tarefa ou realizações e sabe que poderia ter feito melhor? Ainda mais... imagine... você é do tipo de pessoa perfeccionista! Sim... fiquei chateado comigo mesmo pois no projeto anterior do "desafio Zapt", sentir que não fui muito bem. Também cometir erros e sentir dificuldades, sinto que em grande parte era o nervosismo.
 
-Decidir por conta própria e ainda mais visando mais aprendizado, refatorar o desafio que realizei, "mesmo que clandestinamente" srsrsrs e não valendo mais nada, pois o mesmo já está encerrado :pensive:.
+Decidir por conta própria e ainda sobretudo visando mais aprendizado, refatorar o desafio que, de penetra :grin: realizei... "mesmo que clandestinamente" srsrsrs e não valendo mais nada, pois o processo seletivo foi encerrado :pensive:, resolvi refazer.
 
-Estou muito feliz pelo resultado da minha refatoração, estruturei melhor o projeto, reformulei os testes, documentei com storybook e fiz animações!
+Estou muito feliz pelo resultado da minha refatoração e desempenho! Estruturei melhor o projeto, reformulei os testes, documentei com storybook e fiz animações!
 Abaixo segue os links. :smile: 
 #### Screenshots / Gif's:
 
@@ -143,7 +143,6 @@ Acesse o deploy do projeto [aqui](https://edu-won-games-client-deploy.vercel.app
 #### Revisão :beers:
 
 Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
-
 Acesse o deploy do storybook [aqui](https://edu-won-games-storybook.netlify.app/?path=/story/components-banner--mobile&globals=measureEnabled:false). 
 
 <br/>
