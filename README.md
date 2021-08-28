@@ -54,12 +54,18 @@ Abaixo segue os links. :smile:
 <p align=center >
   <img height="500px"  src="./public/img/home_desktop.gif"> &nbsp; &nbsp;
 </p>
+
 <br/>
-<p align=center>Suporte para 320px ~ 1920px</p>
-<p align=left >
-  <img height="250px"  src="./public/img/home_desktop2.gif"> &nbsp; &nbsp;
-</p>
+
+<p align=center>Animações de entradas</p>
+  <p align=center >
+    <img height="210px"  src="./public/img/home_desktop2.gif"> &nbsp; &nbsp;
+    <img height="235px"  src="./public/img/mobile1.gif"> 
+    <img height="235px"  src="./public/img/mobile2.gif"> 
+  </p>
 </details>
+
+<br/>
 
 <br/>
 
@@ -67,8 +73,6 @@ Abaixo segue os links. :smile:
   <img height="210px"  src="./public/img/home_desktop.png"> &nbsp; &nbsp;
   <img height="235px" src="./public/img/mobile.png">
 </p>
-
-<br/>
 
 
 ## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
