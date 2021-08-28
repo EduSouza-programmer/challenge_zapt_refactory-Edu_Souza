@@ -2,11 +2,14 @@
   <img align="center" alt="Imagem trybe" src="./public/img/zapt.svg" width="400px" />
 </h5>
 
+<br/>
+<br/>
+
 <h3 align="center">
   Desafio Zapt(Refactory) - Edu Souza o/
 </h3>
 
-<blockquote align="center">“Prender é mudar posturas - PlaTão.”</blockquote>
+<blockquote align="center">“Aprender é mudar posturas - Platão.”</blockquote>
 
 <h4 align="center">
   Repositório - Refatoração do processo seletivo
