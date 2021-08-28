@@ -59,9 +59,10 @@ Abaixo segue os links. :smile:
 
 <p align=center>Animações de entradas</p>
   <p align=center >
-    <img height="210px"  src="./public/img/home_desktop2.gif"> &nbsp; &nbsp;
     <img height="235px"  src="./public/img/mobile1.gif"> 
-    <img height="235px"  src="./public/img/mobile2.gif"> 
+    <img height="235px"  src="./public/img/mobile2.gif"> &nbsp; &nbsp;
+    <img height="210px"  src="./public/img/home_desktop2.gif"> 
+  
   </p>
 </details>
 
