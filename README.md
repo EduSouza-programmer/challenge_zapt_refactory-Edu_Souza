@@ -1,13 +1,13 @@
 <br/>
 
 <h5 align="center">
-  <img align="center" alt="Imagem trybe" src="./public/img/zapt.svg" width="400px" />
+  <img align="center" alt="Imagem Zapt" src="./public/img/zapt.svg" width="400px" />
 </h5>
 
 <br/>
 
 <h3 align="center">
-  Desafio Zapt(Refactory) - Edu Souza o/
+  Desafio Zapt (Refactory) - Edu Souza o/
 </h3>
 
 <blockquote align="center">“Aprender é mudar posturas - Platão.”</blockquote>
@@ -25,7 +25,7 @@
   <a href="https://edusouza-programmer.github.io/" target="_blank">
     <img alt="Github page Edu_Souza " src="https://img.shields.io/badge/Github%20page-Edu_Souza-orange">
   </a>&nbsp;
-  <a href="LICENSE" >
+  <a href="https://opensource.org/licenses/MIT" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
@@ -45,7 +45,7 @@
 
 Sabe quando você fica incomodado com seu desempenho em alguma tarefa ou realizações e sabe que poderia ter feito melhor? Ainda mais... imagine... você é do tipo de pessoa perfeccionista! Sim... fiquei chateado comigo mesmo pois no projeto anterior do "desafio Zapt", sentir que não fui muito bem. Também cometir erros e sentir dificuldades, sinto que em grande parte era o nervosismo.
 
-Decidir por conta própria e ainda sobretudo visando mais aprendizado, refatorar o desafio que, de penetra :grin: realizei... "mesmo que clandestinamente" srsrsrs e não valendo mais nada, pois o processo seletivo foi encerrado :pensive:, resolvi refazer.
+Decidir por conta própria e ainda sobretudo visando mais aprendizado, refatorar o desafio que, de penetra :grin: realizei... "mesmo que clandestinamente" srsrsrs e não valendo mais nada, pois o processo seletivo foi encerrado :pensive:, resolvi refazer. :sunglasses:
 
 Estou muito feliz pelo resultado da minha refatoração e desempenho! Estruturei melhor o projeto, reformulei os testes, documentei com storybook e fiz animações!
 Abaixo segue os links. :smile: 
