@@ -1,8 +1,9 @@
+<br/>
+
 <h5 align="center">
   <img align="center" alt="Imagem trybe" src="./public/img/zapt.svg" width="400px" />
 </h5>
 
-<br/>
 <br/>
 
 <h3 align="center">
