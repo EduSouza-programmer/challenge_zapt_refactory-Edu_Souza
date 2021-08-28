@@ -1,15 +1,15 @@
-<h1 align="center">
+<h5 align="center">
   <img align="center" alt="Imagem trybe" src="./public/img/zapt.svg" width="400px" />
-</h1>
+</h5>
 
 <h3 align="center">
-  Desafio Zapt - Edu Souza o/
+  Desafio Zapt(Refactory) - Edu Souza o/
 </h3>
 
 <blockquote align="center">“Prender é mudar posturas - PlaTão.”</blockquote>
 
 <h4 align="center">
-  Repositório - Refactory processo seletivo da Zapt
+  Repositório - Refatoração do processo seletivo
 </h4>
 
 <br/>
