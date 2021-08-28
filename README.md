@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29df284d-7cc1-40eb-b5a6-24e7f252d1bb/deploy-status)](https://app.netlify.com/sites/edu-zapt-storybook/deploys)
+
 <br/>
 
 <h5 align="center">
@@ -139,14 +141,17 @@ $ yarn storybook
 
 <br/>
 
-#### Concluído :clipboard:
+#### Concluído :clipboard: 
+
+
+
 
 Acesse o deploy do projeto [aqui](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/).
 
 #### Revisão :beers:
 
 Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
-Acesse o deploy do storybook [aqui](https://edu-won-games-storybook.netlify.app/?path=/story/components-banner--mobile&globals=measureEnabled:false). 
+Acesse o deploy do storybook [aqui](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackcardslider--mobile). 
 
 <br/>
 
