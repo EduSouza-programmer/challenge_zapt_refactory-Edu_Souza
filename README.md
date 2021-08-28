@@ -144,7 +144,9 @@ Acesse o deploy do projeto [aqui](https://edu-won-games-client-deploy.vercel.app
 
 Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
 
-Acesse o deploy do storybook [aqui](https://edu-won-games-storybook.netlify.app/?path=/story/components-banner--mobile&globals=measureEnabled:false). <br/>
+Acesse o deploy do storybook [aqui](https://edu-won-games-storybook.netlify.app/?path=/story/components-banner--mobile&globals=measureEnabled:false). 
+
+<br/>
 
 ## :unlock: Licença
 
