@@ -149,7 +149,7 @@ Acesse o deploy do projeto [aqui](https://challenge-zapt-refactory-edu-souza-dep
 #### Revisão :beers:
 
 Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
-Acesse o deploy do storybook [aqui](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackcardslider--mobile). 
+Acesse o deploy do storybook [aqui](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackbase--default). 
 
 <br/>
 
